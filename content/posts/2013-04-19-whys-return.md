@@ -9,5 +9,3 @@ title = "_why's return"
 It’s quite magical. I was woken up this morning by my printer, when the first pages were being published. Now every 5, 10, or 15 minutes my printer starts clanking away (it’s an old one) and a brand new page slowly emerges. Great way to read a novel, if that’s what it is."
 
 https://news.ycombinator.com/item?id=5572181
-
-,
