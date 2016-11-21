@@ -17,4 +17,5 @@ This means a lot of things need to be true today that often aren't true for a lo
 - The production database might not be wired up with admin accounts and backups ready to go
 - Supporting services may not be fully purchased and configured (logging, analytics, mail delivery)
 
+## Why?
 I strongly prefer the "extreme programming" variant of agile software development.  I'm happiest when each day's work can be shown to the client, tested, and deployed as a separate unit.  The less time you let completed work sit before deploying, the less time it has to rot. Deploy it quickly, get feedback, and revise as you continue to move forward.
