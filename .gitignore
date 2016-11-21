@@ -2,3 +2,8 @@ config.toml
 public
 github_source
 themes
+
+# vim
+*.swp
+*.swo
+*~
