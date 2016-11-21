@@ -1,0 +1,24 @@
+baseurl = "https://blog.dpritchett.net/"
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-us"
+layoutsdir = "layouts"
+publishdir = "public"
+theme = "hugo-cactus-theme"
+title = "Daniel Pritchett: Blog"
+verbose = true
+verboseLog = true
+googleAnalytics = "UA-39163683-1"
+
+[params]
+        name = "Daniel Pritchett"
+        description = "Notes on a career in internet software"
+        bio = "I build business software solutions."
+        twitter = "dpritchett"
+        enableRSS = true
+
+[social]
+    twitter  = "https://www.twitter.com/dpritchett"
+    #facebook = "https://www.facebook.com/"
+    github   = "https://www.github.com/dpritchett"
+    #dribble  = "https://www.dribbble.com/"
