@@ -281,6 +281,7 @@ p.small {
 }
 
 blockquote {
+        font-size: larger;
 	padding-left: 15px;
 	border-left: 3px solid #eee;
 }
