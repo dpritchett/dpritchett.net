@@ -9,6 +9,7 @@ title = "Daniel Pritchett: Blog"
 verbose = true
 verboseLog = true
 googleAnalytics = "UA-39163683-1"
+enableRobotsTXT = true
 
 [params]
         name = "Daniel Pritchett"
