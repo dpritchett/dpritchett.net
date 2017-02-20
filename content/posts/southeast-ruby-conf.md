@@ -9,4 +9,4 @@ My good buddy and [local Ruby luminary Jason Charnes](https://twitter.com/jmchar
 
 With [Avdi Grimm as the first announced keynote](http://www.virtuouscode.com/) and a cool venue called Ruby in Nashville it's sure to be a godo time.  Plus, my personal experience with PyTennessee has convinced me that Nashville is generally a pretty cool spot to spend a weekend.  See you there!
 
-![[Southeast Ruby Logo]((https://southeatruby.com)](https://southeastruby.com/images/logo.svg))
+![[Southeast Ruby Logo](https://southeastruby.com)](https://southeastruby.com/images/logo.svg)
