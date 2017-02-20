@@ -1,7 +1,7 @@
 +++
 date = "2017-02-20T13:29:12-06:00"
-description = "New conference coming to Nashville, RUbyists rejoice!"
-title = "Get Excited About Southeast Ruby Conference"
+description = "New conference coming to Nashville, Rubyists rejoice!"
+title = "Get Excited About Southeast Ruby Conference!"
 
 +++
 
