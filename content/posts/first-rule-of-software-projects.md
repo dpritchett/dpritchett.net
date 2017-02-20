@@ -2,6 +2,7 @@
 title = "The first rule of software projects"
 date = "2016-11-21T12:30:17-06:00"
 tags = ["software", "projects", "xp", "agile", "consulting", "shipping"]
+description = "Always be _____ing"
 
 +++
 
