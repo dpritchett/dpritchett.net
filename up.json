@@ -1,0 +1,15 @@
+{
+  "name": "hugo-static",
+  "type": "static",
+  "static": {
+    "dir": "public"
+  },
+  "stages": {
+    "staging": {
+      "domain": "static-blog-staging.pritchettbots.com"
+    },
+    "production": {
+      "domain": "static-blog.pritchettbots.com"
+    }
+  }
+}
