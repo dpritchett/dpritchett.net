@@ -1,4 +1,4 @@
-baseurl = "https://blog.dpritchett.net/"
+baseurl = "https://www.dpritchett.net"
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-us"
