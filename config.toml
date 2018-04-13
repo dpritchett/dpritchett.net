@@ -18,9 +18,8 @@ enableRobotsTXT = true
         twitter = "dpritchett"
         enableRSS = true
 
-[social]
-    twitter  = "https://www.twitter.com/dpritchett"
-    linkedin  = "https://www.linkedin.com/in/danielpritchett"
-    #facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/dpritchett"
-    #dribble  = "https://www.dribbble.com/"
+[author]
+    name = "Daniel Pritchett"
+    github   = "dpritchett"
+    twitter  = "dpritchett"
+    linkedin  = "danielpritchett"
