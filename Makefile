@@ -4,4 +4,4 @@ build:
 	hugo
 
 watch:
-	hugo server -t hugo-cactus-theme
+	hugo server -t hugo-kiera

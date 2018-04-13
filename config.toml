@@ -4,8 +4,8 @@ contentdir = "content"
 languageCode = "en-us"
 layoutsdir = "layouts"
 publishdir = "public"
-theme = "hugo-cactus-theme"
-title = "Daniel Pritchett: Blog"
+theme = "hugo-kiera"
+title = "dpritchett.net"
 verbose = true
 verboseLog = true
 googleAnalytics = "UA-39163683-1"
@@ -13,13 +13,14 @@ enableRobotsTXT = true
 
 [params]
         name = "Daniel Pritchett"
-        description = "Notes on a career in internet software"
-        bio = "I build business software solutions."
+        tagline = "Notes on building cloud software and systems. Written by Daniel Pritchett."
+        bio = "Consulting engineer: Kubernetes, Serverless, DevOps. Writing a book on chatbots. Ask me about hearing aids, Ruby programming, and the It Depends podcast!"
         twitter = "dpritchett"
         enableRSS = true
 
 [social]
     twitter  = "https://www.twitter.com/dpritchett"
+    linkedin  = "https://www.linkedin.com/in/danielpritchett"
     #facebook = "https://www.facebook.com/"
     github   = "https://www.github.com/dpritchett"
     #dribble  = "https://www.dribbble.com/"

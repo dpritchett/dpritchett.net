@@ -1,5 +1,12 @@
 +++
 draft = false
-title = "About The Blog"
+title = "About"
+menu = "main"
+meta = "false"
 +++
-I build software to enable companies and individuals to do business online.  Shoot me an [email](mailto:dpritchett@gmail.com?subject=Blog reader checking in)!
+
+Hi there, I'm Daniel Pritchett. I helping companies build internet-first software for happy customers.<br/>
+
+ I'm working on a book called __Natural Language Chatbots: Create Responsive, Intuitive Interfaces in Ruby__.<br/>
+
+Shoot me an [email](mailto:dpritchett@gmail.com?subject=Blog reader checking in)!
