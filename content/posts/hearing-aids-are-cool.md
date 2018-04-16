@@ -6,11 +6,13 @@ tags = ["hearing aids", "diversity", "hardware", "bluetooth", "programming"]
 categories = []
 +++
 
+Personal story time! I've been wearing hearing aids since the 3rd grade. My folks drove me down to Florida State University to get a hearing test and a fitting for some new aids. I lost one of my first pairs in a cardboard box in a cabin in the woods and my parents didn't even kill me. In the intervening 30 years I've been through a few sets of aids. My first few sets were [in-the-canal](https://www.google.com/search?tbm=isch&amp;q=itc+hearing+aids) (ITC) aids. My current set is a behind-the-ear (BTE) set.
+
+<!--more-->
+
 <img class="wp-image-52 size-full" src="/images/hearing-aids/hearing-aids-are-cool.jpg" alt="" width="600" height="300" /> 
 
 _Bow ties are cool! Fezzes are cool! Hearing aids are cool!_
-
-Personal story time! I've been wearing hearing aids since the 3rd grade. My folks drove me down to Florida State University to get a hearing test and a fitting for some new aids. I lost one of my first pairs in a cardboard box in a cabin in the woods and my parents didn't even kill me. In the intervening 30 years I've been through a few sets of aids. My first few sets were [in-the-canal](https://www.google.com/search?tbm=isch&amp;q=itc+hearing+aids) (ITC) aids. My current set is a behind-the-ear (BTE) set.
 
 Each new generation of hearing aids offers better digitization and miniaturization technology. The latest ones I've seen work like AirPods on steroids - not only am I streaming internet audio from my phone via Bluetooth, I also have different listening profiles that shift the real-time digital signal processing algorithms in the aids to better enable me to participate in different listening environments. The profiles include stuff like "listening to music", "talking face to face in a crowded restaurant/bar", and "long-distance hearing outdoors".  It's pretty interesting stuff! My personal favorite is the "turn me off during fire alarms" option where my aids magically switch to earplugs.
 
