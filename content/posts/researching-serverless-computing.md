@@ -1,5 +1,6 @@
 +++
 title = "Research Update: Serverless Computing, Kubernetes, Human Interfaces"
+description = "Described"
 date = "2018-04-13T07:20:06-05:00"
 tags = ["research", "devops", "sre", "cloud", "serverless", "consulting", "shipping", "chatbots"]
 +++

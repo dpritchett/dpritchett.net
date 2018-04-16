@@ -7,3 +7,5 @@ themes
 *.swp
 *.swo
 *~
+
+.DS_Store
