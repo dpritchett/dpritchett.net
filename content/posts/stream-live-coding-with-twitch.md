@@ -9,7 +9,9 @@ categories = []
 ## Why Livestream?
 
 <figure>
-<img alt="Overview of the pritchettbots Twitch channel" src="/images/twitch/twitch-channel-view.png" >
+<a href="https://www.twitch.tv/pritchettbots">
+  <img alt="Overview of the pritchettbots Twitch channel" src="/images/twitch/twitch-channel-view.png" >
+</a>
 <figcaption>
   <em>So far Twitch streaming's gotten a good 50 people to check out this book project.</em>
 </figcaption>
