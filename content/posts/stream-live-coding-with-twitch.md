@@ -51,7 +51,7 @@ I'm still feeling this one out, but here's what's working so far:
 
 A quick note on background music and copyrights: Twitch will automatically detect RIAA-fingerprinted music and mute it in your recordings. This doesn't seem to bother folks whose primary audience is live, but if you are planning to get something out of your back catalog then be sure and only play music that's not likely to be muted. I've been playing European techno stuff from [di.fm](di.fm) and it's worked so far. The one bad experience I had was super popular turn-of-the-century rock on Spotify --- that stuff was detected and killed immediately. It looks like Twitch and Spotify have a few curated playlists of "RIAA promises not to sue you if you listen to this" music but I've not bothered yet.
 
-## Subscribe do be notified next time I go live :)
+## Subscribe to be notified next time I go live <img alt="pogchamp emote from twitch - think 'omg'" src="/images/twitch/pogchamp.jpeg" style="width: 50px; box-shadow: none; transform: rotateY(180deg);" />
 
 You can sign up for a Twitch account and then follow my [PritchettBots](https://www.twitch.tv/pritchettbots) channel to get notifications whenever I go live. So far I've noticed a few buds signing on shortly after I start to stream - they're likely getting mobile push notices from me.
 
