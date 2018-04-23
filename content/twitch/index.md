@@ -5,7 +5,7 @@ menu = "main"
 meta = "false"
 +++
 
-Do you like programming? How about writing? I livestream my work sometimes on Twitch.tv.  Check it out!
+Do you like programming? How about writing? I livestream my work sometimes on Twitch.tv.  [Check it out!](https://www.twitch.tv/pritchettbots)
 
 <figure>
 <a href="https://www.twitch.tv/pritchettbots">
