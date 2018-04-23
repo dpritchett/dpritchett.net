@@ -60,3 +60,5 @@ If you're not already following on Twitter, say hi [@dpritchett](https://twitter
 Thank you for reading!
 
 Daniel
+
+Update: The process of [writing and publishing this blog post in an hour](https://www.twitch.tv/videos/253328274) is now up on Twitch as a recorded livestream! I hope you'll find it helpful.
