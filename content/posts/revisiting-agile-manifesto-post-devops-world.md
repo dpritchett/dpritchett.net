@@ -117,6 +117,6 @@ So how *does* the Agile Manifesto hold up in 2018?
 
 **A mite stale**: Number 3 - release times can be so much shorter now than they could twenty years ago. Let's agree to never give up on compressing our release cycles.
 
-**Solid, but clarifications are in order**: Number #4 and 6. Collaboration is key and face to face contact is irreplaceable, but challenge yourself and your organization to experiment, personalize, and improve on these principles for themselves.
+**Solid, but clarifications are in order**: Numbers 4 and 6. Collaboration is key and face to face contact is irreplaceable, but challenge yourself and your organization to experiment, personalize, and improve on these principles for themselves.
 
 I think we can agree that the Agile Manifesto is every bit as relevant in 2018 as it was in 2001. Let's get together in twenty years to go over this again!

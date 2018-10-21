@@ -7,6 +7,7 @@
 * Create a new post with `hugo new posts/post-name-here.md`
 * Fill in the content for the post as markdown.
 * Monitor the output with `make watch`.
+* Manage your deployed content as a separate repo git hosted at `./public` TODO: Explain this better. For now, know that mine's hosted at https://github.com/dpritchett/dpritchett.github.io.
 * Deploy with `make deploy`.
 
 ## Making your own
