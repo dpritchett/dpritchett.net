@@ -9,4 +9,4 @@ Hi there, I'm Daniel Pritchett. I help companies build internet-first software f
 
  I'm working on a book called __Natural Language Chatbots: Create Responsive, Intuitive Interfaces in Ruby__.<br/>
 
-Shoot me an [email](mailto:dpritchett@gmail.com?subject=Blog reader checking in)!
+Shoot me an [email](mailto:daniel@dpritchett.net)!
