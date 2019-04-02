@@ -2,7 +2,7 @@
 title = "Reading List for Early Career Engineers"
 date = 2019-04-02T09:32:05-05:00
 draft = false
-tags = ["reading", "books", "engineering", "mentoring"]
+tags = ["reading", "books", "engineering", "mentoring", "career planning", "leadership", "communication", "productivity", "self-care"]
 description = "In-depth reading recommendations for early-career engineers. Breaks out books by topic so you can focus on your current needs and aspirations immediately."
 categories = []
 +++
