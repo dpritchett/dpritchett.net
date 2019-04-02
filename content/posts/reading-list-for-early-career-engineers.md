@@ -3,12 +3,24 @@ title = "Reading List for Early Career Engineers"
 date = 2019-04-02T09:32:05-05:00
 draft = false
 tags = ["reading", "books", "engineering", "mentoring"]
+description = "In-depth reading recommendations for early-career engineers. Breaks out books by topic so you can focus on your current needs and aspirations immediately."
 categories = []
 +++
 
 For the past few years I've been lucky enough to get to work with [#VetsWhoCode](https://vetswhocode.io/), a nonprofit dedicated to training and supporting veterans in transitioning to careers as civilian technologists. Talking with a current mentoring partner has had me suggesting an unreasonable number of interesting books. Each of the books we read help us become better, more capable people but no one's going to have time to read all the books I've read --- you've got your own life to live!
 
 With that in mind, I'm writing up some of that information to share with the world. This post is going to be a brief list of helpful books for career planning and context for the early-career engineer. If you're curious about my other reading habits, check me out on [my GoodReads profile](https://www.goodreads.com/author/show/19017816.Daniel_Pritchett).
+
+## How do I use this guide?
+
+These reading recommendations are broken out into a few sections:
+
+* Career Planning
+* Leadership, Communication, and Planning
+* Being More Effective at Work
+* Taking Care of Yourself
+
+Try skimming this post first to see what jumps out at you --- maybe you have specific questions about career planning, about leadership, about self-care or work-life balance? Be honest with yourself about how much you're going to read this week or even this year. Good luck!
 
 ## Career Planning
 
@@ -22,7 +34,7 @@ With that in mind, I'm writing up some of that information to share with the wor
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) This is an adaptation of the even more awesome business classic [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951).
 * [Implementing Lean Software Development: From Concept to Cash](https://smile.amazon.com/gp/product/0321437381/ref=dbs_a_def_rwt_bibl_vppi_i1): Mary and Tom Poppendieck introduce you to a toolbox of adaptable software planning and evaluation techniques that will take your team from constantly behind and frustrated to in charge, highly effective, and relied upon. You may think you know enough about "agile software" now, but do yourself a huge favor and check this book out. There are *so many* great techniques and stories in here to learn from and share with your teams.
 
-## Being more Effective at Work
+## Being More Effective at Work
 
 * [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer): Written by two grizzled veteran software consultants, this is perhaps the single most important book out there for the professional engineer looking to sharpen your own tool set and learn how to succeed in this field. The Pragmatic Programmer provides a dozen or so timeless lessons on structuring your thinking, your planning, your communications, and your hands-on programming so that you'll succeed everywhere you go. Do not miss this book --- at 20 years old it's every bit as relevant today as it was when it was released. _(Bonus: PragPub is such an awesome and opinionated tech publisher that they supported me in the writing and publishing of my own first book, [Building Chatbot Interactions](https://pragprog.com/book/dpchat/build-chatbot-interactions) As cool as my book is I can't say it's fundamental enough to belong on this particular list).
 * [Deep Work: Rules for Focused Success in a Distracted World](https://smile.amazon.com/dp/B00X47ZVXM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): Professor Cal Newport gives you the tools and research to better plan and measure your time investments and the results you get out of them. Learn how to identify between urgent tasks vs. important ones. Learn how to succeed at regularly setting aside time to invest in yourself and your highest-value goals.  You'll see how these habits can pay off and make you more effective and valued at your day to day responsibilities.
