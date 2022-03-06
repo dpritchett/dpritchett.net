@@ -18,6 +18,8 @@ enableRobotsTXT = true
         bio = "Consulting engineer: Kubernetes, Serverless, DevOps. Publishing a book on chatbots. Ask me about hearing aids, Ruby programming, and cloud infrastructure!"
         twitter = "dpritchett"
         enableRSS = true
+        logo = "/images/headshot_swing.jpg"
+        copyright = "CC-BY"
 
 [author]
     name = "Daniel Pritchett"
