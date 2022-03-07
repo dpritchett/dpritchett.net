@@ -6,7 +6,9 @@
     "@context": "http://schema.org",
     "author" : {
         "@type": "Person",
-        "name": "{{ $author }}"
+        "image": {{ .Site.Params.Logo | absURL }},
+        "name": "{{ $author }}",
+        "url": {{ .Site.BaseURL }},
     },
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
