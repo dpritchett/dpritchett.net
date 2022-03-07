@@ -3,6 +3,7 @@ draft = false
 title = "Books"
 menu = "main"
 meta = "false"
+image = "/images/botbook/dpchat_xlargebeta.jpg"
 +++
 
 I'm proud to announce that in Spring 2019 I've finally finished writing my first book.
