@@ -1,8 +1,12 @@
 +++
-title = "Chatbot Book Available to Order Today!"
+title = "Build Chatbot Interactions — Book Available to Order Today!"
 date = 2019-01-23T14:33:00-06:00
 draft = false
 tags = ["book", "chatbots", "programming", "writing"]
+aliases  = [
+	"/posts/build-chatbot-interactions-now-shipping/",
+	"/posts/chatbot-book-available-to-order/",
+]
 categories = []
 +++
 
