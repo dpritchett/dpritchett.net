@@ -21,5 +21,4 @@ deploy: build push
 
 
 assert-clean:
-	# assert git not dirty
-	git status --porcelain && (echo "git status is dirty - aborting" && exit 1)
+	assert-git-clean
