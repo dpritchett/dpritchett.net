@@ -13,8 +13,13 @@ watch: check-version
 	open http://localhost:1313
 	hugo server -t hugo-kiera
 
-push: build
+push: build assert-clean
 	push-branch
 
 deploy: build push
 	./deploy.sh
+
+
+assert-clean:
+	# assert git not dirty
+	git status --porcelain && (echo "git status is dirty - aborting" && exit 1)
