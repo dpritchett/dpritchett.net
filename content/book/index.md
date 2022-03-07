@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Build Chatbot Interactions"
+title = "Books"
 description = "I'm proud to announce that I've finally finished writing my first book as of Spring 2019: Build Chatbot Interactions: Responsive, Intuitive Interfaces with Ruby. Copyright 2019, Pragmatic Bookshelf."
 menu = "main"
 meta = "false"
