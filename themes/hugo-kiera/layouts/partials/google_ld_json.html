@@ -1,6 +1,6 @@
 <!-- Google SERP metadata -->
-<script type="application/ld+json">
 {{ if .IsHome -}}
+<script type="application/ld+json">
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
 {
     "@context": "http://schema.org",
@@ -15,7 +15,9 @@
     "thumbnailUrl": {{ .Site.Params.Logo | absURL }},
     "license": "{{ .Site.Params.Copyright }}"
 }
+</script>
 {{ else if .IsPage }}
+<script type="application/ld+json">
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
 {{ $org_name :=  .Site.Title }}
 {
@@ -65,5 +67,5 @@
     "wordCount" : "{{ .WordCount }}",
     "keywords" : [ {{ range $index, $keyword := .Params.tags }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
 }
-{{ end }}
 </script>
+{{ end }}
