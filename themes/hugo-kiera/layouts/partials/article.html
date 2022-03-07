@@ -1,11 +1,11 @@
 <article>
-
-    <h1>{{ .Title | title }}</h1>
+    <header>
+        <h1>{{ .Title | title }}</h1>
+    </header>
 
     {{ if not .Params.meta }}
         {{ partial "aside" . }}
     {{ end }}
 
     {{.Content}}
-
 </article>
