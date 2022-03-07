@@ -1,6 +1,7 @@
 +++
 draft = false
-title = "About"
+linkTitle = "About"
+title = "About Me"
 menu = "main"
 meta = "false"
 +++
