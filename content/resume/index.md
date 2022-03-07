@@ -12,35 +12,38 @@ categories = []
 
 Tech Lead - Observability at Rebellion Defense
 
+{{% .TableOfContents %}}
 ## Summary
 Cloud systems implementation and management. Deep background in Ruby, AWS, Go, Terraform, and Kubernetes. Developer tooling and chatops expert.
 
 ## Experience
 
-### Rebellion Defense
+### [Rebellion Defense](https://rebelliondefense.com/)
 
 #### Technical Lead - Observability
-_February 2022 - Present_
+_2022 - Present_
+
+- Leading a team of engineers in delivering observability services and internal products
 
 #### Senior Backend Engineer
-_March 2021 - February 2022_
+_2021 - 2022_
 
 - Stabilized multi-vendor joint integration efforts with hands-on observability
 leadership and automation of data interchange formats
 - Data engineering for ML exploration with Python and Go
 - Engineering and Project management for cross-team platform solutions
 
-### CrowdStrike
+### [CrowdStrike](https://www.crowdstrike.com/)
 
 #### Senior Engineer
-_June 2020 - March 2021_
+_2020 - 2021_
 
 Backend web services, ops, and event processing at over half a trillion events daily. Golang, Spark, Kubernetes, AWS, ElasticSearch, Terraform, Kafka, Cassandra, Redis, Splunk.
 
-### Gremlin
+### [Gremlin](https://www.gremlin.com/)
 
 #### Senior Platform Engineer
-_June 2018 - April 2020_
+_2018 - 2020_
 
 - AWS-first platform and infrastructure strategy and leadership for fast-growing market leader in chaos engineering
 - Lambda, Kubernetes, Terraform, CloudFormation, and simpler traditional Linux solutions on a case-by-case basis
@@ -49,10 +52,10 @@ _June 2018 - April 2020_
 - 24x7 continuous validation of production services with serverless API test tooling
 - Custom tooling solutions written in Go, Python, and Ruby when off the shelf solutions aren't a fit
 
-### The Pragmatic Programmers
+### [The Pragmatic Programmers](https://pragprog.com/)
 
-#### Technical Book Author
-_May 2017 - May 2019_
+#### Technical Book Author - [Build Chatbot Interactions](https://pragprog.com/titles/dpchat/build-chatbot-interactions/)
+_2017 - 2019_
 
 Remote
 
@@ -60,10 +63,10 @@ Author of the first and only book to bring an entire toolbox of powerful chatbas
 
 Digestible examples written in Ruby and provided with full unit tests and go-toproduction guidance.
 
-### Clear Function
+### [Clear Function](https://clearfunction.com/)
 
 #### Senior Software Engineer
-_October 2015 - June 2018_
+_2015 - 2018_
 
 - Piloted Kubernetes research to prepare our clients to move beyond existing VM-oriented hosting solutions.
 - Led research on serverless technologies in Amazon, Google, and Microsoft cloud environments.
@@ -71,15 +74,15 @@ _October 2015 - June 2018_
 - Instrumented client applications and in-house products with industry-leading application performance monitoring, scalable background job processing, and fault detection analytics techniques.
 - Presented on company's behalf at Southeast Ruby, Dev Space Conference, and Memphis Ruby User Group.
 
-### Railsdog
+### [Railsdog](https://github.com/railsdog)
 
 #### Chief Technical Officer (CTO)
 
-_September 2014 - October 2015_
+_2014 - 2015_
 
 Remote
 
-CTO (April 2015 – October 2015):
+as CTO:
 
 Leadership and support for:
 
@@ -88,7 +91,7 @@ Leadership and support for:
 - Project staffing and recruiting
 - Aiding parent company's portfolio expansion through product and service strategy
 
-eCommerce / BI Lead:
+as eCommerce / BI Lead:
 
 Delivered online retail storefront and fulfillment solutions customized to fit the business needs of a variety of clients:
 
@@ -114,7 +117,7 @@ Delivering bespoke applications, hosting, and services including:
 ### Coroutine LLC
 
 #### Senior Software Developer 
-_2012 - September 2014_
+_2012 - 2014_
 
 Managing and delivering highly scalable mission critical web applications as a consulting developer:
 - Delivered two Spree eCommerce online stores to improve the market responsiveness of stores with multiple millions in yearly revenue each.
@@ -134,13 +137,13 @@ Managing and delivering highly scalable mission critical web applications as a c
 
 ### Motega
 #### Cofounder
-_November 2011 - July 2012_
+_2011 - 2012_
 
 Bringing cutting edge machine learning models from academia to the enterprise
 
 - Python + MongoDB data engineering pipeline
 
-### Fred's Inc.
+### [Fred's Inc.](https://en.wikipedia.org/wiki/Fred%27s)
 #### Senior Business Intelligence Programmer / Analyst
 
 _2010 - 2012_
@@ -152,10 +155,10 @@ Managing and delivering retail business intelligence (BI) reporting and monitori
 - Architect and implement data consolidation, reporting, and planning functions through MS SQL RDBMS and our BOARD BI platform.
 - Leading research on just-in-time reporting solutions, application server virtualization, and enterprise collaboration tools using cutting-edge open source languages and libraries.
 
-### International Paper
+### [International Paper](https://www.internationalpaper.com/)
 #### Business Intelligence Solution Developer
 
-_2005 - December 2010_
+_2005 - 2010_
 
 - Automated over 10,000 pages worth of month-end financial reporting – moved from handwrought Excel to fixed format Crystal using Business Objects XI 3.1. Prevented $1,000,000 in estimated operational losses by successfully delivering solution in Q1 2010.
 - Created and promoted web-based power users' community in support of the 30,000 licensed SharePoint users at International Paper. Researched and presented to CTO and IT Director on emerging trends in enterprise collaboration.
@@ -184,6 +187,6 @@ _2002 - 2005_
 ## Education
 ### The University of Alabama
 
-- Master of Science, Computer Science
+- Master of Science, [Computer Science](https://cs.ua.edu/)
 
-- Bachelor of Science, Management Information Systems
+- Bachelor of Science, [Management Information Systems](https://mis.culverhouse.ua.edu/)
