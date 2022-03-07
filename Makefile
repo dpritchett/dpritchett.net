@@ -13,5 +13,8 @@ watch: check-version
 	open http://localhost:1313
 	hugo server -t hugo-kiera
 
-deploy:
+push: build
+	push-branch
+
+deploy: build push
 	./deploy.sh
