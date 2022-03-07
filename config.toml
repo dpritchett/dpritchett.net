@@ -14,7 +14,7 @@ enableRobotsTXT = true
 [params]
         name = "Daniel Pritchett"
         description = "Notes on building cloud software and systems for humans"
-        tagline = "Notes on building cloud software and systems for humans by Daniel Pritchett."
+        tagline = "Notes on building cloud software and systems for humans by Daniel Pritchett"
         bio = "Consulting engineer: Kubernetes, Serverless, DevOps. Publishing a book on chatbots. Ask me about hearing aids, Ruby programming, and cloud infrastructure!"
         twitter = "dpritchett"
         enableRSS = true
