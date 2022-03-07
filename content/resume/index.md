@@ -11,8 +11,6 @@ categories = []
 +++
 
 Tech Lead - Observability at Rebellion Defense
-
-{{% .TableOfContents %}}
 ## Summary
 Cloud systems implementation and management. Deep background in Ruby, AWS, Go, Terraform, and Kubernetes. Developer tooling and chatops expert.
 
