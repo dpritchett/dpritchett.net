@@ -1,6 +1,12 @@
 <meta charset="utf-8" />
+{{ if .IsHome -}}
+  <meta name="title" content="{{ .Site.Title }}" />
+{{ else if .IsPage }}
+  <meta name="title" content="{{ .Title }} | {{ .Site.Title }}" />
+{{ end }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="{{ with .Param "description" }}{{ . }}{{ else }}{{ .Summary | default .Site.Params.description }}{{ end }}" />
   <meta name="author" content="{{ .Params.Author | default .Site.Author.name }}" />
-  <meta name="thumbnail" content="{{ absURL "/images/headshot_swing_128px.jpg" }}">
-  {{ .Hugo.Generator -}}
+  <meta name="thumbnail" content="{{ absURL "/images/headshot_swing_128px.jpg" }}" />
+  <meta name=”robots” content="index, follow">
+  {{ hugo.Generator -}}

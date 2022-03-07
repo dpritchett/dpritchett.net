@@ -3,6 +3,8 @@
 HUGO_DOWNLOAD := https://github.com/gohugoio/hugo/releases/tag/v0.50
 HUGO_VERSION := 0.55.6
 
+default: build
+
 check-version:
 	hugo version | grep $(HUGO_VERSION)
 
