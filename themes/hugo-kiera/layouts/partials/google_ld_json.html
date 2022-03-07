@@ -9,6 +9,11 @@
         "image": {{ .Site.Params.Logo | absURL }},
         "name": "{{ $author }}",
         "url": {{ .Site.BaseURL }},
+        "sameAs": [
+            "https://twitter.com/DPritchett",
+            "https://github.com/dpritchett",
+            "https://www.linkedin.com/in/danielpritchett/",
+        ],
     },
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
@@ -39,14 +44,35 @@
     "author" : {
         "@type": "Person",
         "name": "{{ $author }}"
+        "image": {{ .Site.Params.Logo | absURL }},
+        "url": {{ .Site.BaseURL }},
+        "sameAs": [
+            "https://twitter.com/DPritchett",
+            "https://github.com/dpritchett",
+            "https://www.linkedin.com/in/danielpritchett/",
+        ],
     },
     "creator" : {
         "@type": "Person",
         "name": "{{ $author }}"
+        "image": {{ .Site.Params.Logo | absURL }},
+        "url": {{ .Site.BaseURL }},
+        "sameAs": [
+            "https://twitter.com/DPritchett",
+            "https://github.com/dpritchett",
+            "https://www.linkedin.com/in/danielpritchett/",
+        ],
     },
     "accountablePerson" : {
         "@type": "Person",
         "name": "{{ $author }}"
+        "image": {{ .Site.Params.Logo | absURL }},
+        "url": {{ .Site.BaseURL }},
+        "sameAs": [
+            "https://twitter.com/DPritchett",
+            "https://github.com/dpritchett",
+            "https://www.linkedin.com/in/danielpritchett/",
+        ],
     },
     "copyrightHolder" : "{{ $org_name }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
