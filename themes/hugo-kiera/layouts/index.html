@@ -6,7 +6,7 @@
           <li {{if eq $index 0}}class="first"{{end}}>
             <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1> 
             {{ partial "aside" . }}
-            <p>{{ .Summary }}</p>
+            <p>{{ .Summary | safeHTML }}</p>
             {{ if .Truncated }}
             <a href="{{ .RelPermalink }}">Read more&hellip;</a>
             {{ end }}
