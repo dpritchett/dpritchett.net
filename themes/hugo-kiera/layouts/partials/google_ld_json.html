@@ -7,20 +7,20 @@
     "author" : {
         "@type": "Person",
         "image": {{ .Site.Params.Logo | absURL }},
-        "logo": {{ .Site.Params.Logo | absURL }},
         "name": "{{ $author }}",
         "url": {{ .Site.BaseURL }},
         "sameAs": [
             "https://twitter.com/DPritchett",
             "https://github.com/dpritchett",
-            "https://www.linkedin.com/in/danielpritchett/",
-        ],
+            "https://www.linkedin.com/in/danielpritchett/"
+        ]
     },
     "@type": "WebSite",
     "name": "{{ .Site.Title }}",
     "url": {{ .Site.BaseURL }},
     "description": "{{ .Site.Params.description }}",
     "thumbnailUrl": {{ .Site.Params.Logo | absURL }},
+    "image": {{ .Site.Params.Logo | absURL }},
     "license": "{{ .Site.Params.Copyright }}"
 }
 </script>
@@ -46,37 +46,34 @@
         "@type": "Person",
         "name": "{{ $author }}"
         "image": {{ .Site.Params.Logo | absURL }},
-        "logo": {{ .Site.Params.Logo | absURL }},
         "url": {{ .Site.BaseURL }},
         "sameAs": [
             "https://twitter.com/DPritchett",
             "https://github.com/dpritchett",
-            "https://www.linkedin.com/in/danielpritchett/",
-        ],
+            "https://www.linkedin.com/in/danielpritchett/"
+        ]
     },
     "creator" : {
         "@type": "Person",
         "name": "{{ $author }}"
         "image": {{ .Site.Params.Logo | absURL }},
-        "logo": {{ .Site.Params.Logo | absURL }},
         "url": {{ .Site.BaseURL }},
         "sameAs": [
             "https://twitter.com/DPritchett",
             "https://github.com/dpritchett",
             "https://www.linkedin.com/in/danielpritchett/",
-        ],
+        ]
     },
     "accountablePerson" : {
         "@type": "Person",
         "name": "{{ $author }}"
         "image": {{ .Site.Params.Logo | absURL }},
-        "logo": {{ .Site.Params.Logo | absURL }},
         "url": {{ .Site.BaseURL }},
         "sameAs": [
             "https://twitter.com/DPritchett",
             "https://github.com/dpritchett",
-            "https://www.linkedin.com/in/danielpritchett/",
-        ],
+            "https://www.linkedin.com/in/danielpritchett/"
+        ]
     },
     "copyrightHolder" : "{{ $org_name }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
