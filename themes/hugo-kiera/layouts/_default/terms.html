@@ -4,7 +4,7 @@
 
     {{ $baseurl := .Site.BaseURL }}
 
-    <h2>{{ .Title }}</h2>
+    <h2>{{ .Title | title }}</h2>
 
     {{ .Content }}
 

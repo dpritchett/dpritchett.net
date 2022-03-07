@@ -3,12 +3,12 @@
     <ul>
         {{ with .PrevInSection }}
         <li>
-            <a href="{{.Permalink}}"><i class="fa fa-chevron-circle-left"></i> {{ .Title }}</a>
+            <a href="{{.Permalink}}"><i class="fa fa-chevron-circle-left"></i> {{ .Title | title }}</a>
         </li>
         {{ end }}
         {{ with .NextInSection }}
         <li>
-            <a href="{{.Permalink}}">{{ .Title }} <i class="fa fa-chevron-circle-right"></i> </a>
+            <a href="{{.Permalink}}">{{ .Title | title }} <i class="fa fa-chevron-circle-right"></i> </a>
         </li>
         {{ end }}
     </ul>

@@ -1,6 +1,7 @@
+<!-- Google SERP metadata -->
+<script type="application/ld+json">
 {{ if .IsHome -}}
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
-<script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "author" : {
@@ -14,17 +15,15 @@
     "thumbnailUrl": {{ .Site.Params.Logo | absURL }},
     "license": "{{ .Site.Params.Copyright }}"
 }
-</script>
 {{ else if .IsPage }}
 {{ $author :=  or (.Params.author) (.Site.Author.name) }}
 {{ $org_name :=  .Site.Title }}
-<script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
     "articleSection": "{{ .Section }}",
-    "name": "{{ .Title | safeJS }}",
-    "headline": "{{ .Title | safeJS }}",
+    "name": "{{ .Title | title | safeJS }}",
+    "headline": "{{ .Title | title | safeJS }}",
     "alternativeHeadline": "{{ .Params.lead }}",
     "description": "{{ if .Description }}{{ .Description | safeJS }}{{ else }}{{if .IsPage}}{{ .Summary  }}{{ end }}{{ end }}",
     "inLanguage": {{ .Site.LanguageCode | default "en-us" }},
@@ -66,5 +65,5 @@
     "wordCount" : "{{ .WordCount }}",
     "keywords" : [ {{ range $index, $keyword := .Params.tags }}{{ if $index }}, {{ end }}"{{ $keyword }}" {{ end }}]
 }
-</script>
 {{ end }}
+</script>

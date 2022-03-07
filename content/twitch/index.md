@@ -3,6 +3,10 @@ draft = true
 title = "Twitch Livestream"
 menu = "main"
 meta = "false"
+images = [
+  "/images/twitch/twitch-channel-view.png",
+  "/images/twitch/pogchamp.jpeg",
+]
 +++
 
 Do you like programming? How about writing? I livestream my work sometimes on Twitch.tv.  [Check it out!](https://www.twitch.tv/pritchettbots)

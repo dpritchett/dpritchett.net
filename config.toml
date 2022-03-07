@@ -10,9 +10,12 @@ verbose = true
 verboseLog = true
 googleAnalytics = "UA-39163683-1"
 enableRobotsTXT = true
+copyright = "[CC-BY](https://creativecommons.org/licenses/by/4.0/)"
 
 [params]
+        title = "dpritchett.net by Daniel Pritchett"
         name = "Daniel Pritchett"
+        images = ['/images/headshot_swing_128px.jpg']
         description = "Notes on building cloud software and systems for humans"
         tagline = "Notes on building cloud software and systems for humans"
         bio = "Consulting engineer: Kubernetes, Serverless, DevOps. Publishing a book on chatbots. Ask me about hearing aids, Ruby programming, and cloud infrastructure!"

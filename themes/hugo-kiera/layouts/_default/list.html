@@ -7,7 +7,7 @@
     {{ if eq .Data.Singular "tag" }}
         <h2>#{{ .Title | lower }}</h2>
     {{ else }}
-        <h2>{{ .Title }}</h2>
+        <h2>{{ .Title | title }}</h2>
     {{ end }}
 
     {{ .Content }}
@@ -18,7 +18,7 @@
     <ul>
         {{ range .Pages }}
         <li>
-            <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | markdownify }}</a>
+            <a href="{{ .Permalink }}">{{ if .Draft }}DRAFT: {{end}}{{ .Title | title | markdownify }}</a>
             <time class="date-meta">{{ .Date.Format "Jan 2" }}</time>
         </li>
         {{ end }}
