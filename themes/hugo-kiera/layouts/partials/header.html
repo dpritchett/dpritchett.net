@@ -11,9 +11,16 @@
 <body>
   <div id="container">
     <header>
-      <h1>
-                <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
-      </h1>
+      <div id="site-header" style="width: 100%; display: flex;">
+        <div id="site-name" style="width: 80%">
+          <h1>
+                    <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
+          </h1>
+        </div>
+        <div id="site-headshot" style="width: 128px; margin-top: 0.2rem;">
+          <img src="{{ absURL "/images/headshot_swing_128px.jpg" }}" height="128" width="128">
+        </div>
+      </div>
       <ul id="social-media">
         {{ if .Site.Author.twitter }}
         <li><a href="https://twitter.com/{{ .Site.Author.twitter }}"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
