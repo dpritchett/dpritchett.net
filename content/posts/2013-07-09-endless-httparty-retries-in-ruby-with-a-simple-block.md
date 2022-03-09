@@ -2,6 +2,7 @@
 date = "2013-07-09T17:48:10+00:00"
 draft = false
 tags = ["ruby", "programming", "computer science", "daemons"]
+description = "Simple wrapper to allow retries for HTTP requests - prolongs daemon life."
 title = "Endless HTTParty retries in Ruby with a simple block"
 +++
 See also: [A Ruby HOWTO: Writing A Method That Uses Code Blocks](http://blog.codahale.com/2005/11/24/a-ruby-howto-writing-a-method-that-uses-code-blocks/)

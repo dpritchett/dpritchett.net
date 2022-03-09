@@ -3,6 +3,7 @@ date = "2013-05-13T15:00:05+00:00"
 draft = false
 tags = ["golang", "fortune", "programming", "go"]
 title = "Fortune in Golang - Proof of Concept"
+description = "This is what I built at today’s Memphis Hackathon. Thanks a billion to the Memphis Makers and their MakerSpace! There is plenty more to learn with Golang - I am just glad to have read some line from a file and split them on a delimiter."
 +++
 This is what I built at today's Memphis Hackathon.  Thanks a billion to the Memphis Makers and their MakerSpace!  There is plenty more to learn with Golang - I am just glad to have read some line from a file and split them on a delimiter.
 
@@ -33,6 +34,8 @@ This is what I built at today's Memphis Hackathon.  Thanks a billion to the Memp
         return theLine[:cutoff]
     }
 
-Output:
+### Output
+
     # go run fortune.go
     Cats, no less liquid than their shadows, offer no angles to the wind.       
+
