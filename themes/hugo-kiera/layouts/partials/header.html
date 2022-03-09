@@ -11,9 +11,16 @@
 <body>
   <div id="container">
     <header>
-      <h1>
-        <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
-      </h1>
+      <div id="banner">
+        <div class="col1">
+          <img id="banner-selfie" src="{{ absURL "/images/headshot_swing_128px.jpg" }}" />
+        </div>
+        <div class="col2">
+          <h1 id="banner-title">
+            <a href="{{ relURL "/" }}">{{ .Site.Title | markdownify }}</a>
+          </h1>
+        </div>
+      </div>
       <ul id="social-media">
         {{ if .Site.Author.twitter }}
         <li><a href="https://twitter.com/{{ .Site.Author.twitter }}"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
